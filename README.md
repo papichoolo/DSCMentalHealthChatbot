@@ -7,3 +7,5 @@ Try to use Mistral AI  (didn't work out, cant run anywhere for free without kern
 Try to implement 2 agents, one to listen to the patient, one to give a diagnosis on the given conversation. Lets see!  
 
 Deploy on gradio Using Langchain
+
+_I am writing this on nvim, yipee!!_ 
