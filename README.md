@@ -8,4 +8,3 @@ Try to implement 2 agents, one to listen to the patient, one to give a diagnosis
 
 Deploy on gradio Using Langchain
 
-_I am writing this on nvim, yipee!!_ 
